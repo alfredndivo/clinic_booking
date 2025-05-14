@@ -1,1 +1,1 @@
-SELECT * FROM clinic_booking_system.appointments;
+
