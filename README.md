@@ -12,14 +12,6 @@ A complete relational database system for managing a clinic's appointments, doct
 - MySQL (only)
   
 ## 🔗 ERD Diagram
-[Patients]───┬────────────┐
-             │            │
-             │            ▼
-             │        [Appointments]───┬────────────┐
-             │                         │            │
-             ▼                         ▼            ▼
-         [Doctors]               [Departments]   [Doctor_Department]
-
-
+in the provided files
 ## 📁 Contents
 - `clinic_booking.sql` → SQL file with all `CREATE TABLE` statements and constraints.
